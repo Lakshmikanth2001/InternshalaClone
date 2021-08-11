@@ -1,0 +1,14 @@
+.fa-chevron-left {
+    color: black;
+}
+
+.fa-chevron-right {
+    color: black;
+}
+
+.carousel-img {
+    position: relative;
+    text-align: center;
+    width: 75%;
+    height: 75%;
+}

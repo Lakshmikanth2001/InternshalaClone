@@ -1,0 +1,181 @@
+[
+    {
+        "title":"Internships",
+        "url":"/",
+        "url_text":"View Internships",
+        "description":"Apply to 10,000+ internships for free",
+        "data":[
+            {
+                "heading":"popular cities",
+                "content":[
+                    {
+                        "title":"Work from home",
+                        "url":"/",
+                        "img_url":"https://internshala.com/static/images/home/internships/categories/work_from_home.svg"
+                    },
+                    {
+                        "title":"Delhi/NCR",
+                        "url":"/",
+                        "img_url":"https://internshala.com/static/images/home/internships/categories/delhi_ncr.svg"
+                    },
+                    {
+                        "title":"Bangloor",
+                        "url":"/",
+                        "img_url":"https://internshala.com/static/images/home/internships/categories/bangalore.svg"
+                    },
+                    {
+                        "title":"Mumbai",
+                        "url":"/",
+                        "img_url":"https://internshala.com/static/images/home/internships/categories/mumbai.svg"
+                    },
+                    {
+                        "title":"Hyderabad",
+                        "url":"/",
+                        "img_url":"https://internshala.com/static/images/home/internships/categories/hyderabad.svg"
+                    },
+                    {
+                        "title":"Chennai",
+                        "url":"/",
+                        "img_url":"https://internshala.com/static/images/home/internships/categories/chennai.svg"
+                    },
+                    {
+                        "title":"Kolkata",
+                        "url":"/",
+                        "img_url":"https://internshala.com/static/images/home/internships/categories/kolkata.svg"
+                    },
+                    {
+                        "title":"International",
+                        "url":"/",
+                        "img_url":"https://internshala.com/static/images/home/internships/categories/international.svg"
+                    }
+                ]
+            },
+            {
+                "heading":"popular categories",
+                "content":[
+                    {
+                        "title":"Part-time",
+                        "url":"/",
+                        "img_url":"https://internshala.com/static/images/home/internships/categories/part_time.svg"
+                    },
+                    {
+                        "title":"Engineering",
+                        "url":"/",
+                        "img_url":"https://internshala.com/static/images/home/internships/categories/engineering.svg"
+                    },
+                    {
+                        "title":"NGO",
+                        "url":"/",
+                        "img_url":"https://internshala.com/static/images/home/internships/categories/ngo.svg"
+                    },
+                    {
+                        "title":"MBA",
+                        "url":"/",
+                        "img_url":"https://internshala.com/static/images/home/internships/categories/mba.svg"
+                    },
+                    {
+                        "title":"Design",
+                        "url":"/",
+                        "img_url":"https://internshala.com/static/images/home/internships/categories/design.svg"
+                    },
+                    {
+                        "title":"Science",
+                        "url":"/",
+                        "img_url":"https://internshala.com/static/images/home/internships/categories/science.svg"
+                    },
+                    {
+                        "title":"Media",
+                        "url":"/",
+                        "img_url":"https://internshala.com/static/images/home/internships/categories/media.svg"
+                    },
+                    {
+                        "title":"Humanities",
+                        "url":"/",
+                        "img_url":"https://internshala.com/static/images/home/internships/categories/humanities.svg"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title":"Internshala Training",
+        "url":"/",
+        "url_text":"View Internships",
+        "description":"Learn new age skills on go",
+        "data":[
+            {
+                "heading":"",
+                "content":[
+                    {
+                        "title":"Programming with Python",
+                        "url":"/",
+                        "img_url":"https://internshala.com/static/images/home/trainings/icons/programming_with_python.svg"
+                    },
+                    {
+                        "title":"Digital Marketing",
+                        "url":"/",
+                        "img_url":"https://internshala.com/static/images/home/trainings/icons/digital_marketing.svg"
+                    },
+                    {
+                        "title":"Web Development",
+                        "url":"/",
+                        "img_url":"https://internshala.com/static/images/home/trainings/icons/web_development.svg"
+                    },
+                    {
+                        "title":"Machine Learning",
+                        "url":"/",
+                        "img_url":"https://internshala.com/static/images/home/trainings/icons/machine_learning.svg"
+                    },
+                    {
+                        "title":"Advanced Excel",
+                        "url":"/",
+                        "img_url":"https://internshala.com/static/images/home/trainings/icons/advanced_excel.svg"
+                    },
+                    {
+                        "title":"Ethical Hacking",
+                        "url":"/",
+                        "img_url":"https://internshala.com/static/images/home/trainings/icons/ethical_hacking.svg"
+                    },
+                    {
+                        "title":"AutoCAD",
+                        "url":"/",
+                        "img_url":"https://internshala.com/static/images/home/trainings/icons/autocad.svg"
+                    },
+                    {
+                        "title":"Creative Writing",
+                        "url":"/",
+                        "img_url":"https://internshala.com/static/images/home/trainings/icons/creative_writing.svg"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title":"Fresher Jobs",
+        "url":"/",
+        "url_text":"View Internships",
+        "description":"Premium fresher jobs on your finger tips",
+        "data":[
+            {
+                "heading":"",
+                "content":[
+                    {
+                        "title":"Minium CTC of 3 LPA",
+                        "url":"/",
+                        "img_url":"https://internshala.com/static/images/home/jobs/perks/ctc.svg"
+                    },
+                    {
+                        "title":"Dream Companies",
+                        "url":"/",
+                        "img_url":"https://internshala.com/static/images/home/jobs/perks/dream.svg"
+                    },
+                    {
+                        "title":"100% verfied jobs",
+                        "url":"/",
+                        "img_url":"https://internshala.com/static/images/home/jobs/perks/verified.svg"
+                    }
+                ]
+            }
+        ]
+    }
+]

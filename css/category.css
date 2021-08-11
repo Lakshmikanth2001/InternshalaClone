@@ -1,0 +1,45 @@
+
+.category-head{
+    margin: 15px;
+}
+
+.category-link{
+    position: absolute;
+    margin-bottom: 15px;
+    margin-left: 60%;
+}
+
+.category-desc{
+    margin: 25px;
+}
+
+.category-body{
+    margin: 25px;
+}
+
+.categories{
+    padding: 10px;
+    text-decoration: none;
+}
+
+.row{
+    margin: 35px 0px;
+}
+
+.col{
+    margin-left: 5px;
+}
+
+.col:hover{
+    border: 1px;
+    border-radius: 5px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    color: aliceblue;
+    transform: scale(1.01);
+}
+
+.img {
+    width: fit-content;
+    height: fit-content;
+    text-align: center;
+}
