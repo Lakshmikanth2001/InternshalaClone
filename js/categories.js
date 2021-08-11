@@ -26,7 +26,7 @@ function create_category(content, category_html) {
 
 $(() => {
 
-    read_json("/js/categories_structure.json").then((elements) => {
+    read_json("js/categories_structure.json").then((elements) => {
 
         let body_html = "";
 

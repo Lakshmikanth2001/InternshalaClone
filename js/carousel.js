@@ -4,7 +4,7 @@ import {
 
 
 $(()=>{
-    read_json("/js/carousel_structure.json").then(carousel_structure => {
+    read_json("js/carousel_structure.json").then(carousel_structure => {
 
         carousel_structure.forEach((carousel, index) => {
 
