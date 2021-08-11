@@ -30,7 +30,7 @@ $(() => {
 
         let body_html = "";
 
-        read_file("/templates/category.html").then((buffer_category_html) => {
+        read_file("templates/category.html").then((buffer_category_html) => {
 
             elements.forEach(element => {
 
